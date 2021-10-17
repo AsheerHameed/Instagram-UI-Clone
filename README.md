@@ -1,10 +1,16 @@
-# instagram
+# instagram UI clone
 
-A new Flutter project.
+A simple instagram clone which i've built using Flutter framework
 
-## Getting Started
+## Languages and Frameworks used
+ 1.Dart language
+ 2.Flutter framework
 
-This project is a starting point for a Flutter application.
+### What's in this project
+1.User Login form
+2.Stories 
+3.Camera access
+4.Gallery access
 
 A few resources to get you started if this is your first Flutter project:
 
